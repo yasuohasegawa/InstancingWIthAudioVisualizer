@@ -118,12 +118,12 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-	bSnapshot = true;
+	//bSnapshot = true;
 }
 
 //--------------------------------------------------------------
 void ofApp::keyReleased(int key){
-	bSnapshot = false;
+	//bSnapshot = false;
 }
 
 //--------------------------------------------------------------
